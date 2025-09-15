@@ -1,0 +1,14 @@
+# Básico
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Utilidades
+joblib
+openpyxl   # necessário para ler o .xls do dataset
+shap
